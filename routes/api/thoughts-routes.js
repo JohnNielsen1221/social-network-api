@@ -29,10 +29,10 @@ router
 
 // /api/thoughts/<ThoughtsId>/reactions
 router
-.route('/:thoughtId/:reactions')
+.route('/:thoughtsId/reactions')
 .post(addReaction)
 
-// /api/thoughts/<thougthsId>/<reactionId>
+// /api/thoughts/<thougthsId>/reactions/<reactionId>
 router
 .route('/:thoughtsId/reactions/:reactionId')
 .delete(removeReaction);
