@@ -49,9 +49,9 @@ As deescribed in the provided videos, with this API you will be able to create a
 Project is: _complete_ (for now)
 
 ## Links
-Respository Link - https://github.com/JohnNielsen1221/social-network-api
-First Demo Video - https://drive.google.com/file/d/1M0mSu5gXZ-dSHD84BlUNgez6BeZPVT2z/view
-Second Demo Video - https://drive.google.com/file/d/180lpxIExVxb-Yaof3Z-wIU3k5mQmG1Kk/view
+ - Respository Link - https://github.com/JohnNielsen1221/social-network-api
+ - First Demo Video - https://drive.google.com/file/d/1M0mSu5gXZ-dSHD84BlUNgez6BeZPVT2z/view
+ - Second Demo Video - https://drive.google.com/file/d/180lpxIExVxb-Yaof3Z-wIU3k5mQmG1Kk/view
 
 ## License
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
